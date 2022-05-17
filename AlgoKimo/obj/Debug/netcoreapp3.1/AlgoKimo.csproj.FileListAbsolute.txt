@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\bin\Debug\netcoreapp3.1\AlgoKimo.exe
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\bin\Debug\netcoreapp3.1\AlgoKimo.deps.json
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\bin\Debug\netcoreapp3.1\AlgoKimo.runtimeconfig.json
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\bin\Debug\netcoreapp3.1\AlgoKimo.runtimeconfig.dev.json
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\bin\Debug\netcoreapp3.1\AlgoKimo.dll
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\bin\Debug\netcoreapp3.1\AlgoKimo.pdb
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\obj\Debug\netcoreapp3.1\AlgoKimo.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\obj\Debug\netcoreapp3.1\AlgoKimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\obj\Debug\netcoreapp3.1\AlgoKimo.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\obj\Debug\netcoreapp3.1\AlgoKimo.AssemblyInfo.cs
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\obj\Debug\netcoreapp3.1\AlgoKimo.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\obj\Debug\netcoreapp3.1\AlgoKimo.dll
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\obj\Debug\netcoreapp3.1\AlgoKimo.pdb
+C:\Users\hp\source\repos\AlgoKimo\AlgoKimo\obj\Debug\netcoreapp3.1\AlgoKimo.genruntimeconfig.cache

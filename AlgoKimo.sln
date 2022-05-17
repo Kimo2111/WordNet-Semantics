@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoKimo", "AlgoKimo\AlgoKimo.csproj", "{66F361D4-57CB-4195-8A2E-8C40FDFD63CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F361D4-57CB-4195-8A2E-8C40FDFD63CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F361D4-57CB-4195-8A2E-8C40FDFD63CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F361D4-57CB-4195-8A2E-8C40FDFD63CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F361D4-57CB-4195-8A2E-8C40FDFD63CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A29B3804-C08C-45D1-921B-40B1DB7C7839}
+	EndGlobalSection
+EndGlobal
